@@ -1,5 +1,8 @@
 Aisling wiki 离线存档
 
+在线预览：https://huoxingrnana.github.io/aisling-wiki/
+源码仓库：https://github.com/huoxingrNaNa/aisling-wiki
+
 抓取时间：2026-09-21 15:34
 优化时间：2026-09-21
 由「Tu_village head」创作
