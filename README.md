@@ -1,9 +1,8 @@
-# Aisling wiki（离线存档站）
+# Aisling wiki
 
 Minecraft 服务器 **Aisling** 的文档站点，共 **30 个页面**。
 
 - 🌐 在线浏览：https://huoxingrnana.github.io/aisling-wiki/
-- 📦 内容来源：腾讯文档《Aisling wiki》只读分享页的离线抓取
 - ✍️ 原文档作者：**Tu_village head**
 - 📅 服务器自 2023 年 8 月 3 日开放，当前版本 2nd+，QQ 群 **543231701**
 
